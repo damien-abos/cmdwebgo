@@ -1,0 +1,16 @@
+{
+  "ping": {
+    "cmd": "ping", 
+    "argv" : ["localhost", "-c", "10"]
+  },
+  "dir": {
+    "cmd": "dir"
+  },
+  "ll": {
+    "cmd": "ls",
+    "argv": ["-lha"]
+  },
+  "ps": {
+    "cmd": "ps"
+  }
+}
